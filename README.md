@@ -15,7 +15,8 @@ If you haven't already, add the jitpack repository to the root build.gradle file
     
  # Add the dependency:
 
-    	        implementation 'com.github.Viveksaini9898:sharedpreference:1.0.1'
+    	        implementation 'com.github.viveksaini75:sharedpreference:1.0.1'
+
 
 
  
